@@ -158,6 +158,46 @@ Learn more: https://www.udemy.com/react-redux-firebase/
 
 Learn more: https://www.udemy.com/build-a-slack-chat-app-with-react-redux-and-firebase/
 
+## Required Projects
 
+The projects below are slightly modified versions found from HackerYou’s syllabus. All the credit goes to HackerYou’s wonderful team.
+
+I filtered out the requirements of working in groups or pairs since it’s much easier to do that in a classroom setting. However, if you are able to collaborate with someone on any of the projects below and showcase it on GitHub, go for it!
+
+Tip: HackerYou has some of their PSD designs stored at http://psd.hackeryou.com/
+
+### Project 1: A Three-Page Website
+
+For your first project, find a three-page web design available online or collaborate with a designer friend of yours to come up with one. Your task will be to bring the design to life using HTML & CSS in exactly the designer’s vision. This is a core skill for junior front-end developers.
+
+### Project 2: PSD to responsive website
+
+Find a one-page web design available online or again, collaborate with a designer friend of yours to come up with one. You’ll code the site from scratch to bring to life the designer’s vision, adding a great-looking and functional form, embedded media, and a navigation menu. This time you’ll also have to make the site completely responsive for all screen sizes, considering even the smallest smartphone or the large size of an iMac.
+
+### Project 3: jQuery Interactive Site
+
+For your first JavaScript project, you’ll create an interactive user experience with a jQuery library. What you create is up to you! It could be a quiz, game, or something else entirely. It’s time to let your creativity shine!
+
+### Project 4: Web application using API
+
+Your project for the week will be a one-page web app. You’ll use an API to pull in data from one or more sources, and then add some cool functionality and style the rest of the site.
+
+### Project 5: Rich Web Application #1
+
+With your new knowledge of the React library and Firebase, you’ll start building your first truly rich web application, such as an app that takes notes, manages to-do lists, or books appointments. Once complete, this will definitely end up being one of the most impressive pieces in your portfolio.
+
+### Project 6: Rich Web Application #2
+
+Another one? Absolutely! Building functional web applications combine everything you have learned. Think of another app idea and build it.
+
+### Project 7: Portfolio
+
+You’ll whip up a portfolio site using plain old HTML & CSS, which will house all of your creations and give potential employers a way to learn more about you.
+
+## That’s it for now. Happy coding!
+
+Now that I have a plan laid out, it’s time to start my challenge. Will I get through it? I sure hope so!
+
+If you are thinking of going through this yourself, let me know. I would love to learn with you and spend sleepless nights making our code work!
 
 
