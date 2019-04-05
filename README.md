@@ -139,18 +139,10 @@ Learn more: https://www.udemy.com/react-2nd-edition/
 ### OPTIONAL COURSES: More React + Redux + FireBase
 
 <p align="left">
-  <img width="550" height="auto" src="https://i.imgur.com/TqtZ0af.png" alt="Build Responsive Real World Websites with HTML5 and CSS3">
-</p>
-
-<p align="left">
-  <img width="550" height="auto" src="https://i.imgur.com/CNDzVD8.png" alt="Build Responsive Real World Websites with HTML5 and CSS3">
+  <img width="550" height="auto" src="https://i.imgur.com/VTktJBU.png" alt="Build Responsive Real World Websites with HTML5 and CSS3">
 </p>
 
 Learn more: https://www.udemy.com/react-redux-firebase/
-
-<p align="left">
-  <img width="550" height="auto" src="https://i.imgur.com/VTktJBU.png" alt="Build Responsive Real World Websites with HTML5 and CSS3">
-</p>
 
 <p align="left">
   <img width="550" height="auto" src="https://i.imgur.com/fZjNVXi.png" alt="Build Responsive Real World Websites with HTML5 and CSS3">
